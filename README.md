@@ -132,7 +132,7 @@ The dataset is imbalanced (~5.60% readmission rate). Addressed using `class_weig
 
 ### ROC Curve
 
-![ROC Curve](outputs/roc_curve.png)
+![ROC Curve]([outputs/roc_curve.png](https://github.com/preetham1bs/30-Day-ICU-Readmission-Prediction-MIMIC-III/blob/8402626ed302e73731b633c477c4f8e1f95e57ec/roc_curve.png))
 
 ### Top Predictive Features
 
