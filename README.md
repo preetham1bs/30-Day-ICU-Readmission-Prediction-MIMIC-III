@@ -253,8 +253,8 @@ jupyter notebook notebooks/04_modelling.ipynb
 
 ## Author
 
-**Preetham B S**
-B.E. Medical Electronics — M.S. Ramaiah Institute of Technology, Bengaluru (2025)
+**Preetham B S** |
+B.E. Medical Electronics — M.S. Ramaiah Institute of Technology, Bengaluru (2025) |
 Co-author, 3× IEEE International Conference Papers (CompSIF 2025)
 
 📧 bs1preetham2002@gmail.com
