@@ -150,7 +150,7 @@ Interactive Tableau dashboard visualising:
 - Top feature importances
 - Patient risk scatter plot (ICU stay vs predicted risk, coloured by outcome)
 
-🔗 **[View live dashboard on Tableau Public](#)** ← ![Tableau link](https://public.tableau.com/views/mimicreadmission/30-DayReadmissionAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 **![View live dashboard on Tableau Public](https://public.tableau.com/views/mimicreadmission/30-DayReadmissionAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)(#)**
 ![Dashboard Preview](outputs/dashboard_screenshot.png)
 
 ---
