@@ -132,11 +132,11 @@ The dataset is imbalanced (~5.60% readmission rate). Addressed using `class_weig
 
 ### ROC Curve
 
-![ROC Curve]([outputs/roc_curve.png](https://github.com/preetham1bs/30-Day-ICU-Readmission-Prediction-MIMIC-III/blob/8402626ed302e73731b633c477c4f8e1f95e57ec/roc_curve.png))
+![ROC Curve](https://github.com/preetham1bs/30-Day-ICU-Readmission-Prediction-MIMIC-III/blob/8402626ed302e73731b633c477c4f8e1f95e57ec/roc_curve.png)
 
 ### Top Predictive Features
 
-![Feature Importance](outputs/feature_importance.png)
+![Feature Importance](https://github.com/preetham1bs/30-Day-ICU-Readmission-Prediction-MIMIC-III/blob/25ed5620009689fae896a0200aecfa3369179a3b/feature_importance.png)
 
 > **Clinical interpretation:** Low hemoglobin (anemia/chronic disease) emerges as the strongest predictor of readmission risk, followed by WBC as an infection marker and creatinine indicating renal dysfunction. Longer ICU stays and age further reflect disease severity, aligning with established clinical risk factors.
 
