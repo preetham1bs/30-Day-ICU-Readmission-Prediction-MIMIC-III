@@ -66,7 +66,7 @@ This project builds an end-to-end pipeline — from raw ICU data extraction to a
 Raw MIMIC-III CSVs
        │
        ▼
-  SQLite / MySQL
+    SQLite3
   (data loading)
        │
        ▼
@@ -162,20 +162,14 @@ mimic-readmission/
 │
 ├── README.md
 │
-├── notebooks/
-│   ├── 01_data_loading.ipynb          # Load MIMIC CSVs into SQLite/MySQL
-│   ├── 02_eda.ipynb                   # Exploratory data analysis
-│   ├── 03_feature_engineering.ipynb   # Build feature matrix
-│   └── 04_modelling.ipynb             # Train, evaluate, visualise models
-│
-├── sql/
-│   └── readmission_target.sql         # SQL query to create 30-day flag
+├── notebook/
+│   ├── MIMIC readmission.ipynb
 │
 ├── outputs/
 │   ├── roc_curve.png
 │   ├── feature_importance.png
-│   ├── missing_data.png
-│   └── dashboard_screenshot.png
+│   ├── missing_admissions.png
+│   └── 30-Day Readmission Analysis.png
 │
 └── requirements.txt
 ```
